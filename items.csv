@@ -1,0 +1,31 @@
+Item,Sentence,Construction,Gap,Group
+1,This is the man that the news that the police arrested shocked the public.,declarative,gap,A
+1,This is the man that the news that the police arrested him shocked the public.,declarative,RP,B
+1,This is the man that Mary thought that the police arrested to protect the president.,declarative,control,C
+1,Which man did the news that the police arrested shock the public?,question,gap,D
+1,Which man did the news that the police arrested him shock the public?,question,RP,E
+1,Which man did Mary think that the police arrested to protect the president?,question,control,F
+2,This is the man that the fact that Mary didn't know surprised me.,declarative,gap,B
+2,This is the man that the fact that Mary didn't know him surprised me.,delcarative,RP,C
+2,This is the man that I thought that Mary didn't know very well.,delcarative,control,D
+2,Which man did the fact that Mary didn't know surprised me?,question,gap,E
+2,Which man did the fact that Mary didn't know him surprised me?,question,RP,F
+2,Which man did I think that Mary didn't know very well?,question,control,A
+3,This is the man that the idea that his child spoke with disturbed John.,declarative,gap,C
+3,This is the man that the idea that his child spoke with him disturbed John.,declarative,RP,D
+3,This is the man that John thought that his child spoke with to bother him.,declarative,control,E
+3,Which man did the idea that his child spoke with disturbed John?, question,gap,F
+3,Which man did the idea that his child spoke with him disturbed John?,question,RP,A
+3,Which man did John thought his child spoke with to bother him?,question,control,B
+4,This is the man that the proposition that she would date disgusted Mary.,declarative,gap,D
+4,This is the man that the proposition that she would date him disgusted Mary.,declarative,RP,E
+4,This is the man that Mary said that she would date to please her parents.,declarative,control,F
+4,Which man did the proposition that she would date disgust Mary?, question,gap,A
+4,Which man did the proposition that she would date him disgust Mary?, question,RP,B
+4,Which man did Mary say she would date to please her parents?, question,control,C
+5,This is the woman that the thought that he could not see upset John.,declarative,gap,E
+5,This is the woman that the thought that he could not see her upset John.,declarative,RP,F
+5,This is the woman that John said he needed to see to be happy.,declarative,control,A
+5,Which woman did the thought that he could not see upset John?,question,gap,B
+5,Which woman did the thought that he could not see her upset John?,question,RP,C
+5,Which woman did John say that he needed to see to be happy?,question,control,D
